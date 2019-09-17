@@ -65,6 +65,6 @@ JQuery类库系列、MVVM框架系列。这些书籍在这里免费提供下载�
 * 《前端工程化：体系设计与实践》
 
 ## 附、网盘下载
-* 链接：https://pan.baidu.com/s/1CWnBC3Uidg8-OxLvYz7LRA 提取码：n7ak
+* 链接：https://pan.baidu.com/s/1P5nEXZFVFL-Q0IC58tRMnw 提取码：ihco
 
 **朋友，持续学习，一起深入JavaScript吧**
